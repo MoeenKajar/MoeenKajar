@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi there, I'm Mervin Marshal Kajar!<br>I'm a Desktop Support Engineer with a passion for cybersecurity, cloud computing, and networking. Currently, I'm expanding my skill set to include Docker and AI applications in various domains, with a particular focus on healthcare diagnostics.<br><br>🔧 Technologies & Tools<br>Languages: R, Python, Bash<br>Cloud Platforms: AWS, Azure (beginner)<br>DevOps: Docker, Git, GitHub Actions<br>Networking & Security: TCP/IP, Firewalls, VPNs, basic cybersecurity protocols<br>AI & Data Science: Support Vector Machines, Multiple Linear Regression, AI Ethics<br>💡 Ongoing Projects<br>AI in Health Diagnostics: Researching how AI can improve diagnostic techniques, comparing traditional and AI-driven methods.<br>Energy Sustainability Project: Exploring urban energy harvesting solutions using kinetic and thermal energy.<br>🌱 What I’m Learning<br>Cybersecurity: Expanding my understanding of security protocols, threat detection, and ethical hacking.<br>Cloud Computing: Learning about cloud infrastructure and services (AWS, Azure) to enhance my deployment and networking skills.<br>Docker: Exploring containerization and how it integrates with CI/CD pipelines and cloud platforms.<br>🔗 Connect with Me<br>LinkedIn: Let's connect professionally!<br>Portfolio: Check out more of my work.
 
-<!--
-**MoeenKajar/MoeenKajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MoeenKajar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MoeenKajar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeenKajar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=MoeenKajar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
